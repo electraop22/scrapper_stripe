@@ -13,11 +13,11 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # API Configuration
-api_id = 22062302  # Replace with your actual API ID
-api_hash = "420247aee974aa3720f697f1bbc9b771"  # Replace with your actual API hash
+api_id = 20664949  # Replace with your actual API ID
+api_hash = "cbfcba2d446c43af9e27977adb41fda9"  # Replace with your actual API hash
 session_name = "cc_scraper"
 # Add your session string here (optional); leave as None if using session file or manual login
-session_string = "1BVtsOKEBu7_648S3X2z7klWnbseWH-TcCUzHEPU8BC9lFt82_SSRPYXatcV6tITzPNmbhM1dZ3AtUYRpcJYx5hyCJ827cVFjbFsbdfjIKZjhome6MBD11puE5beKxjXuGc2Tqj6ZYMCVFQ5m-N3R97lYFKO2eOBNB8MgHQipSLSay3UDfQHYbaB12SckI1cTnOUntLv10P3IYKvBi7tKlzrlbOPVXY7wxcusyFA7ozz7WZMCCq7Kxr3gdoR_icrkOIigI0Wluu7sl6Y1WhtdSGuQdLAtaDuWbpnBZ1OEbc8ySmsDyCai6senugC6og1Gm2AV2_yLk24KKr50pSH91jFAffsy3S0="  # Replace with your session string, e.g., "1BVtsO..."
+session_string = "1BJWap1sBu4ncHflIOgm_HxIYpns0rj_dqU3MTn0CT2CimvMOpnLDM7-q81wonzxNCvDpFogFJnb5R5zAdiTkQ_22bvQQ65pLaZe3jXm1RyN7n5f8n6jQHtAi_q268fMrmV365SwpKRIyHyQmGVltcV4GWJcQZOOSmNONVhBInVpQqcrpg8KGNOBE-y8ipNolPvHV6yE_qYmO1dYh4EM-xw7Y9ex6kJI1RF6pyfHMGAzFWd8ElHo_ZEbLSCLMCfSyFHwRwPTIe6gFrnl_J7fYIJ7vZtdQF--1DkF-0gdwSBEoi1DBXNo2JAPzD3KgNWCFesRNJ-KXAwnf-2nqKRxymnnmtVc2UMk="  # Replace with your session string, e.g., "1BVtsO..."
 
 # Sources Configuration - add as many as needed
 source_groups = [-1002682944548, -1001878543352]  # Add source group IDs if needed
