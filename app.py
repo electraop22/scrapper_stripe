@@ -24,7 +24,7 @@ class AdvancedCardChecker:
         self.max_concurrent = 3
         self.stripe_key = "pk_live_51IcTUHEZ8uTrpn7wTEclyYcnuG2kTGBaDYArq5tp4r4ogLSw6iE9OJ661ELpRKcP20kEjGyAPZtbIqwg3kSGKYTW00MHGU0Jsk"
         self.bin_cache = {}
-        self.admin_username = "Vipvishal0"
+        self.admin_username = "FNxELECTRA"
         self.blacklist_file = 'blacklist.txt'
         self.blacklist = self.load_blacklist()
         self.save_blacklist()
