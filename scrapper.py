@@ -24,7 +24,7 @@ source_groups = [-1002886988229, -1003306540431]  # Add source group IDs if need
 source_channels = []  # Add source channel IDs if needed
 
 # Target channels where approved CCs will be sent
-target_channels = [-1002319403142]  # Add more channel IDs as needed
+target_channels = [-1003486131039]  # Add more channel IDs as needed
 
 # Initialize Telegram client
 if session_string:
